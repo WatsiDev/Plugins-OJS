@@ -1,4 +1,4 @@
-#                               ⚠️⚠️ IMPORTANTE ⚠️⚠️
+              #                               ⚠️⚠️ IMPORTANTE ⚠️⚠️
 
 + ### Se recomienda tener instalado GIT en su terminal para un trabajo mas eficiente y sencillo.
 
@@ -11,7 +11,7 @@
  
  + ### Creen sus archivos README.md en sus carpetas de plugins para poner anotaciones importantes del plugin, documentar el funcionamiento el plugin, como instalar y configurar el plugin así como notas para el equipo de desarrollo.
 
- + ### podemos probar todos los plugins dentro de un mismo servidor de OJS.
+ + ### Podemos probar todos los plugins dentro de un mismo servidor de OJS.
 
 
 
