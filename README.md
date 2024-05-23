@@ -1,7 +1,8 @@
 #                               ⚠️⚠️ IMPORTANTE ⚠️⚠️
 
 + ### Se recomienda tener instalado GIT en su terminal para un trabajo mas eficiente y sencillo.
-+ #### Comando para instalar GIT en Linux sudo apt install git
++ #### Comando para instalar GIT en Linux
+   #### sudo apt install git
 
 + ### Siempre que se vaya a trabajar con su carpeta de plugins hacer un Git Pull para descargar todos los cambios que se hagan dentro del repositorio para evitar errores.
 
