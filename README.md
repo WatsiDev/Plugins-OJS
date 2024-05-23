@@ -1,4 +1,4 @@
-              #                               ⚠️⚠️ IMPORTANTE ⚠️⚠️
+#                               ⚠️⚠️ IMPORTANTE ⚠️⚠️
 
 + ### Se recomienda tener instalado GIT en su terminal para un trabajo mas eficiente y sencillo.
 
