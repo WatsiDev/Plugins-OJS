@@ -90,7 +90,7 @@
                 </div>
             {/if}
             <audio controls>
-                <source src="{$pdfUrl|escape}" type="audio/mpeg">
+                <source src="{$audioUrl|escape}" type="audio/mpeg">
                 Your browser does not support the audio element.
             </audio>
         </div>
