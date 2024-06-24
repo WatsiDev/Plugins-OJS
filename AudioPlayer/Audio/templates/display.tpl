@@ -71,12 +71,12 @@
 			{$title|escape}
 		</a>
 
-		<a href="{$pdfUrl}" class="download" download>
+		<a href="{$audioUrl}" class="download" download>
 			<span class="label">
 				{translate key="common.download"}
 			</span>
 			<span class="pkp_screen_reader">
-				{translate key="common.downloadPdf"}
+				{translate key="common.downloadaudio"}
 			</span>
 		</a>
 	</header>
