@@ -1,0 +1,4 @@
+<locale>
+    <message key="plugins.generic.videoPlugin.displayName">Plugin de Video</message>
+    <message key="plugins.generic.videoPlugin.description">Este plugin permite incrustar videos usando Video.js en las páginas de artículos.</message>
+</locale>

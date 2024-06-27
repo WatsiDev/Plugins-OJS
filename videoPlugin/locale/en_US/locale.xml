@@ -1,0 +1,4 @@
+<locale>
+    <message key="plugins.generic.videoPlugin.displayName">Video Plugin</message>
+    <message key="plugins.generic.videoPlugin.description">This plugin allows embedding videos using Video.js in article pages.</message>
+</locale>
