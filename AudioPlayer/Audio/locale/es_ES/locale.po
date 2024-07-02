@@ -1,22 +1,17 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-19T11:05:18+00:00\n"
-"PO-Revision-Date: 2020-05-01 12:38+0000\n"
-"Last-Translator: Jordi LC <jordi.lacruz@uab.cat>\n"
-"Language-Team: Spanish <http://translate.pkp.sfu.ca/projects/plugins/"
-"pdfjs-viewer-plugin/es_ES/>\n"
-"Language: es_ES\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1\n"
-
 msgid "plugins.generic.ViewerAudio.name"
-msgstr "Visor de MP3"
+msgstr "Reproductor de mp3"
 
 msgid "plugins.generic.ViewerAudio.description"
-msgstr ""
-"Este módulo sirve para visualizar Archivos mp3 sin necesidad de descargarlos"
+msgstr "Este módulo sirve para abrir archivos MP3 y mostrar un Reproductor para evitar la descarga automatica"
+
+msgid "article.author"
+msgstr "Autor"
+
+msgid "article.affiliation"
+msgstr "Afiliación"
+
+msgid "article.subject"
+msgstr "Asunto"
+
+msgid "article.abstract"
+msgstr "Resumen"
