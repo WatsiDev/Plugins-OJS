@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Define el tipo de documento como una definición de tipo de documento (DTD) para la configuración de plugins -->
+<!DOCTYPE plugin_settings SYSTEM "../../../lib/pkp/dtd/pluginSettings.dtd">
+<!-- Elemento raíz que contiene la configuración del plugin -->
+<plugin_settings>
+    <!-- Definición de una configuración de tipo booleano -->
+    <setting type="bool">
+        <!-- Nombre de la configuración -->
+        <name>enabled</name>
+        <!-- Valor de la configuración (true o false) -->
+        <value>true</value>
+    </setting>
+</plugin_settings>
