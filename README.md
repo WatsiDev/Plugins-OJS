@@ -1,25 +1,22 @@
-![bannerPluginsOJS](/images/PluginBanner.png)
-#                               ⚠️⚠️ IMPORTANTE ⚠️⚠️
+# ⚠️⚠️ IMPORTANTE ⚠️⚠️
 
-+ ### Se recomienda tener instalado GIT en su terminal para un trabajo mas eficiente y sencillo.
-+ #### Comando para instalar GIT en Linux
-> sudo apt install git
+- **Requisitos Previos**: Asegúrese de tener instalado OJS en la versión 3.3.
 
-+ ### Siempre que se vaya a trabajar con su carpeta de plugins hacer un Git Pull para descargar todos los cambios que se hagan dentro del repositorio para evitar errores.
+## Recomendaciones
 
- + ### Si no tienes descargado GIT en la CLI y trabajas directamente en el editor de código de GitHub procura que estés seguro de los cambios o tengas una copia en tu escritorio por si ocurrió algún error.
- 
+- **Esperar a que se descomprima completamente la carpeta antes de comenzar a moverla**: Para evitar errores y asegurar que todos los archivos se copien correctamente, espere a que la carpeta esté completamente descomprimida antes de realizar cualquier acción.
 
- + ### Sugerencias:
- 
- + ### Creen sus archivos README.md en sus carpetas de plugins para poner anotaciones importantes del plugin, documentar el funcionamiento el plugin, como instalar y configurar el plugin así como notas para el equipo de desarrollo.
+## Instalación
 
- + ### Podemos probar todos los plugins dentro de un mismo servidor de OJS.
+1. Descargue la carpeta como archivo ZIP desde el repositorio.
+2. Descomprima el archivo ZIP en su sistema local.
+3. Vaya al directorio de instalación de su instancia de OJS.
+4. Navegue hasta la carpeta `plugins` y luego a la carpeta `generic`.
+5. Pegue la carpeta descomprimida del plugin dentro de la carpeta `generic`.
+6. Una vez completado, verifique el funcionamiento del plugin visitando la página de OJS y creando una nueva revista.
 
+## Listado de Plugins
 
+#### PluginAudio
 
-## Plugins-OJS
-Creación de plugins para la plataforma OJS.
-
-+ PluginAudio
-+ PluginVideo
+Descripción: Reproduce audios MP3 directamente en OJS en una vista previa, con funciones avanzadas como modo oscuro, adelanto de audio, modificación de la velocidad de reproducción, y muestra metadatos de la revista, todo diseñado para una experiencia de usuario agradable y funcional.
