@@ -1,3 +1,4 @@
+![bannerPluginsOJS](/images/PluginBanner.png)
 # ⚠️⚠️ IMPORTANTE ⚠️⚠️
 
 - **Requisitos Previos**: Asegúrese de tener instalado OJS en la versión 3.3.
